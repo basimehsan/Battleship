@@ -54,7 +54,7 @@ def inttocol(ycor):  #Converts column number to column letter
         ycor_str = 'J'
 
 def instructions():
-    print("\n                       Hi! Let's play BATTLESHIP! 🚀🚀🚀                        \n")
+    print("\n                       Hi! Let's play BATTLESHIP!                        \n")
     print("                       Let's have a look at your ships\n")
     player.showBoard()
     print("\n Your opponent shares a similar board but you don't know where their ships are yet!\n")
